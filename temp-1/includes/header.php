@@ -28,8 +28,14 @@
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Font Awesome w3school  -->
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <!-- Our Styles -->
+    <link href="css/weStyle.css" rel="stylesheet">
 </head>
 
 <body>

@@ -1,0 +1,74 @@
+/*Book Now Modal Styling */
+
+.placeholder-primary::-webkit-input-placeholder {
+    color: #f9c97e;
+}
+
+.placeholder-primary:-moz-placeholder {
+    /* FF 4-18 */
+    color: #f9c97e;
+    opacity: 1;
+}
+
+.placeholder-primary::-moz-placeholder {
+    /* FF 19+ */
+    color: #f9c97e;
+    opacity: 1;
+}
+
+.placeholder-primary:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #f9c97e;
+}
+
+.placeholder-primary::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #f9c97e;
+}
+
+.placeholder-primary::placeholder {
+    /* modern browser */
+    color: #f9c97e;
+}
+
+.placeholder-primary:focus {
+    color: white;
+}
+
+.placeholder-primary:not(:focus) {
+    color: white;
+}
+
+/* Cursor Pointer */
+.cursor-pointer {
+    cursor:pointer;
+}
+
+/* Border glow on hover */
+
+.border-glow {
+    transition: box-shadow 0.3s;
+}
+
+.border-glow:hover {
+    box-shadow: 0 0 5px 2px #fea116;
+}
+
+/* No Selection */
+
+.no-select {
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard syntax */
+}
+
+/* Card Bump */
+
+.card-bump {
+    box-shadow: inset 0 0 10px #000000;
+}

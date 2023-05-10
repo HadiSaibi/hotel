@@ -89,6 +89,7 @@
 
  <!-- Template Javascript -->
  <script src="js/main.js"></script>
+ <script src="js/weMain.js"></script>
  </body>
 
  </html>
