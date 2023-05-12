@@ -4,7 +4,7 @@
 ?>
 
 <!-- Large modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target=".bd-example-modal-lg">Schedule</button>
+<!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target=".bd-example-modal-lg">Schedule</button> -->
 
 <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -100,7 +100,7 @@
                     $card .= '<span class="text-white">' . $price . '$' . '</span>';
                     $card .= '</div>';
                     $card .= '<div class="d-flex align-items-center justify-content-center">';
-                    $card .= '<i class="fas fa-info-circle pe-2" style="font-size:24px;"></i>';
+                    $card .= '<i class="fas fa-info-circle pe-2 cursor-pointer" style="font-size:24px;"></i>';
                     $card .= '<a class="btn btn-sm btn-primary rounded" href="">Book</a>';
                     $card .= '</div>';
                     $card .= '</div>';

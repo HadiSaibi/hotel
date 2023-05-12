@@ -8,5 +8,7 @@ define("DB_NAME", "hotel_db");
 $connection = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
 
 if ($connection) {
-    echo "we are connected";
+    echo "connected to db";
+} else {
+    echo "FAILED";
 }

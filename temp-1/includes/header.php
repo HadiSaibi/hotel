@@ -101,7 +101,7 @@
                                 </div>
                                 <a href="contact.php" class="nav-item nav-link">Contact</a>
                             </div>
-                            <a href="https://htmlcodex.com/hotel-html-template-pro" class="btn btn-primary rounded-0 py-4 px-md-5 d-none d-lg-block">Book Now<i class="fa fa-arrow-right ms-3"></i></a>
+                            <a href="https://htmlcodex.com/hotel-html-template-pro" class="btn btn-primary rounded-0 py-4 px-md-5 d-none d-lg-block" data-bs-toggle="modal" data-bs-target=".bd-example-modal-lg">Book Now<i class="fa fa-arrow-right ms-3"></i></a>
                         </div>
                     </nav>
                 </div>
