@@ -114,7 +114,6 @@
                 echo '</div>';
                 ?>
 
-                <p>Modal body text goes here.</p>
             </div>
 
         </div>
